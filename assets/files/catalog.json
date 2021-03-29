@@ -1,0 +1,36 @@
+{
+    "products":[
+        {
+           "id": 1,
+           "name": "Iphone 12 Pro",
+           "desc":"",
+           "price": 999,
+           "color": "#33505a",
+           "image": "https://www.reliancedigital.in/medias/Apple-12-Pro-Smartphones-491901561-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjU0MDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDM3L2hmNi85NDA3ODAxOTUwMjM4LmpwZ3xkMjgxNWY4MTBiOGRjNTEwYmNhNGU5Y2U4ODk1YjNmODgxYWMwMDMyM2M2ZGU0ZmRhNzE4OGQyMGQ2YWUxNzUw"
+        },
+        {
+           "id" : 2,
+           "name" : "Iphone 12 Pro Max",
+           "desc" :"Iphone 12th generation of Appple used A13biotonic chipset,size is 6.5 inch",
+           "price" :1999,
+           "color" :"#33505b",
+           "image": "https://img.router-switch.com/media/customoptions/129/2/4/iphone-12-pro-max-blue.jpg"
+        },
+        {
+            "id" : 3,
+            "name" :"Iphone 12",
+            "desc" :"128 GB, 15.49 cm Super Retina XDR Display",
+            "price":799,
+            "color":"#33505a",
+            "image":"https://images-na.ssl-images-amazon.com/images/I/71ZOtNdaZCL._SX522_.jpg"
+        },
+        {
+            "id" : 4,
+            "name" :"iQOO 3",
+            "desc" :"Tornado Black,128GB",
+            "price":417,
+            "color":"#33505b",
+            "image":""
+        }
+    ]
+}
