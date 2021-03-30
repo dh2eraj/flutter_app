@@ -3,7 +3,7 @@
         {
            "id": 1,
            "name": "Iphone 12 Pro",
-           "desc":"",
+           "desc":"Iphone 12th generation of Appple used A13biotonic chipset,size is 6.5 inch",
            "price": 999,
            "color": "#33505a",
            "image": "https://www.reliancedigital.in/medias/Apple-12-Pro-Smartphones-491901561-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjU0MDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDM3L2hmNi85NDA3ODAxOTUwMjM4LmpwZ3xkMjgxNWY4MTBiOGRjNTEwYmNhNGU5Y2U4ODk1YjNmODgxYWMwMDMyM2M2ZGU0ZmRhNzE4OGQyMGQ2YWUxNzUw"
@@ -30,7 +30,7 @@
             "desc" :"Tornado Black,128GB",
             "price":417,
             "color":"#33505b",
-            "image":""
+            "image":"https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-3-5g.jpg"
         }
     ]
 }
